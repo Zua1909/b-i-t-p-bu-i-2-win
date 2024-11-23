@@ -1,0 +1,14 @@
+D:\C# bài tập\baitap\obj\Debug\net8.0\baitap.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# bài tập\baitap\obj\Debug\net8.0\baitap.AssemblyInfoInputs.cache
+D:\C# bài tập\baitap\obj\Debug\net8.0\baitap.AssemblyInfo.cs
+D:\C# bài tập\baitap\obj\Debug\net8.0\baitap.csproj.CoreCompileInputs.cache
+D:\C# bài tập\baitap\bin\Debug\net8.0\baitap.exe
+D:\C# bài tập\baitap\bin\Debug\net8.0\baitap.deps.json
+D:\C# bài tập\baitap\bin\Debug\net8.0\baitap.runtimeconfig.json
+D:\C# bài tập\baitap\bin\Debug\net8.0\baitap.dll
+D:\C# bài tập\baitap\bin\Debug\net8.0\baitap.pdb
+D:\C# bài tập\baitap\obj\Debug\net8.0\baitap.dll
+D:\C# bài tập\baitap\obj\Debug\net8.0\refint\baitap.dll
+D:\C# bài tập\baitap\obj\Debug\net8.0\baitap.pdb
+D:\C# bài tập\baitap\obj\Debug\net8.0\baitap.genruntimeconfig.cache
+D:\C# bài tập\baitap\obj\Debug\net8.0\ref\baitap.dll
